@@ -56,13 +56,13 @@ It enables stakeholders to:
    - Avg wait time trends
    - Patient satisfaction improvements between repeat visits
 
----
+--
 
 ## 💡 Deep Insights (Powered by SQL Queries)
 
 Here are the **advanced queries** used to unlock deeper operational insights:
 
----
+--
 
 ### 1. Patient Satisfaction Trend Between Visits
 
